@@ -1,0 +1,4 @@
+vendor,fuel_type,quantity,unit,cost
+Shell,Diesel,500,L,700
+BP,Petrol,-100,L,400
+ONGC,Diesel,1200,L,1500
